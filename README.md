@@ -1,4 +1,4 @@
-# C-Program-to-fetch-data-from-PostgreSQL
+# C# .net-Program-to-fetch-data-from-PostgreSQL
 Source code for a desktop app which fetches data from PostgreSQL. Feel free to use refer. Note: comments wont be available for everything.
 
 **-> Note: This program is only used for fetching data and exporting it in the format xls and csv, it cannot be used for writing data**
